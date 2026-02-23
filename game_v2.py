@@ -41,3 +41,4 @@ def score_game(randox_predict) -> int:
 if __name__ == '__main__': 
     # запускаем 
     score_game(random_predict)
+# тренируюсь с компитами и остальной дичью  
